@@ -167,6 +167,36 @@ body {
 	color: #211a23;
 }
 
+.cube:not(.cube--inactive):nth-child(27) .cube__side,
+.no-js .cube:not(.cube--inactive):nth-child(27) {
+	background-image: url(../img/5.png);
+	color: #000000;
+}
+
+.cube:not(.cube--inactive):nth-child(28) .cube__side,
+.no-js .cube:not(.cube--inactive):nth-child(28) {
+	background-image: url(../img/6.png);
+	color: #F0F0F3;
+}
+
+.cube:not(.cube--inactive):nth-child(29) .cube__side,
+.no-js .cube:not(.cube--inactive):nth-child(29) {
+	background-image: url(../img/7.png);
+	color: #F0F0F3;
+}
+
+.cube:not(.cube--inactive):nth-child(30) .cube__side,
+.no-js .cube:not(.cube--inactive):nth-child(30) {
+	background-image: url(../img/8.png);
+	color: #F0F0F3;
+}
+
+.cube:not(.cube--inactive):nth-child(31) .cube__side,
+.no-js .cube:not(.cube--inactive):nth-child(31) {
+	background-image: url(../img/9.png);
+	color: #F0F0F3;
+}
+
 .cube--inactive .cube__side,
 .no-js .cube--inactive {
 	background: #2e2e37;
